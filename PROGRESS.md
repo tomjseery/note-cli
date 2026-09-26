@@ -2,9 +2,9 @@
 
 A tiny command-line notes app. **v1 "done" =** `note add "buy milk"` appends a
 note to a file, and `note ls` prints all notes numbered. C++23, plain `std::`
-(no external libs except Catch2 for tests). See repo `CLAUDE.md` for *how to work
+(no external libs except Catch2 for tests). See `cpp:learning` for *how to work
 with me* (I write the code myself; teach in chat, not via code comments; keep
-files clean; don't pre-write my logic) and `LIBRARY_CONVENTIONS.md` for deps.
+files clean; don't pre-write my logic) and `cpp:libraries` for deps.
 
 ## Architecture (decided)
 
